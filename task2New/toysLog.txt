@@ -1,0 +1,14 @@
+июл. 02, 2023 2:13:16 AM Main main
+INFO: Main run.
+июл. 02, 2023 2:13:16 AM model.FileOperationToy <init>
+INFO: Filewriter sucsessful init.
+июл. 02, 2023 2:13:16 AM model.FileOperationToy <init>
+INFO: Filewriter sucsessful init.
+июл. 02, 2023 2:13:16 AM model.FileOperationToy <init>
+INFO: Filewriter sucsessful init.
+июл. 02, 2023 2:13:16 AM model.FileOperationToy readAllLines
+INFO: All lines are readed.
+июл. 02, 2023 2:13:16 AM model.FileOperationToy readAllLines
+INFO: All lines are readed.
+июл. 02, 2023 2:13:16 AM model.FileOperationToy readAllLines
+INFO: All lines are readed.
